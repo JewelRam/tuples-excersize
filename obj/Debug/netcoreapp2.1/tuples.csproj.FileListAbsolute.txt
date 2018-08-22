@@ -1,0 +1,11 @@
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.deps.json
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.runtimeconfig.json
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.runtimeconfig.dev.json
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.dll
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\bin\Debug\netcoreapp2.1\tuples.pdb
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.csprojAssemblyReference.cache
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.csproj.CoreCompileInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.AssemblyInfoInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.AssemblyInfo.cs
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.dll
+C:\Users\Your Butt\workspace\csharp\exercises\tuples\obj\Debug\netcoreapp2.1\tuples.pdb
